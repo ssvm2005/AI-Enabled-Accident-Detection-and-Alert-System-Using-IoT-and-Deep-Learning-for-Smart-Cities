@@ -1,4 +1,4 @@
-# AI-Enabled-Accident-Detection-and-Alert-System-Using-IoT-and-Deep-Learning-for-Smart-Cities
+# AI - Enabled Accident Detection and Alert System Using IoT and Deep Learning for Smart Cities
 
 An end-to-end IoT and AI system that detects road accidents in real time and automatically alerts emergency contacts with location and severity.
 
